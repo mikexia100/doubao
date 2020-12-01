@@ -1,5 +1,5 @@
 <?php
-namespace DouBao\qq;
+namespace DouBao\Qq;
 
 class Application{
     function __construct($config=[]){
