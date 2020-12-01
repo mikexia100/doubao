@@ -1,7 +1,7 @@
 <?php
     namespace DouBao;
 
-    class init{
+    class Init{
         /**
          * @param string $name
          * @param array  $config
